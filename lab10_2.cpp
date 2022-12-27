@@ -14,6 +14,7 @@ void printO(int x,int y){
 	}
 }
 
+
 int main(){
 	
 	printO(2,2);
